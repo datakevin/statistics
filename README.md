@@ -1,3 +1,3 @@
 # statistics
 
-Adding in statistics projects
+Compiling statistical concepts that I have explored in the past, with code.
